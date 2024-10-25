@@ -2,27 +2,32 @@
 <br>
 This project is a simple digital clock created using JavaScript, HTML, and CSS. It displays the current time along with the meridian (AM/PM).
 <br>
-Features
-Displays the current time in HH:MM
-format.
+Features:
+<br>
+Displays the current time in HH:MM:SS format.
+<br>
 Shows the meridian indicator (AM/PM).
+<br>
 Automatically updates every second.
-Demo
-You can include a link to your demo or an image/gif showing the clock in action.
+<br>
 
-Getting Started
-Prerequisites
+Prerequisites:
+<r>
 A modern web browser that supports JavaScript.
+<br>
 
 Installation
+<br>
 Clone the repository:
 bash
 Copy code
 git clone https://github.com/yourusername/digital-clock.git
+<br>
 Navigate to the project folder:
 bash
 Copy code
 cd digital-clock
+<br>
 Open the index.html file in your browser to see the clock.
 Usage
 Simply open the index.html file in a browser. The digital clock will display and update the time every second.
