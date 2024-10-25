@@ -1,6 +1,7 @@
-Digital Clock
+<b>Digital Clock<b>
+<br>
 This project is a simple digital clock created using JavaScript, HTML, and CSS. It displays the current time along with the meridian (AM/PM).
-
+<br>
 Features
 Displays the current time in HH:MM
 format.
