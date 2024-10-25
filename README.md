@@ -36,9 +36,13 @@ Built With
 HTML
 CSS
 JavaScript
-Contributing
+<br>
+Contributing:
+<br>
 Feel free to contribute to this project by submitting issues or pull requests.
+<br>
 
-License
+License:
+<br>
 This project is licensed under the MIT License.
 
