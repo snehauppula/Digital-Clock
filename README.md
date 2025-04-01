@@ -21,7 +21,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/digital-clock.git
+git clone https://github.com/snehauppula/digital-clock.git
 <br>
 Navigate to the project folder:
 bash
